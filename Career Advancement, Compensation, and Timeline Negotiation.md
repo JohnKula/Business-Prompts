@@ -8,9 +8,9 @@ Context & Inputs:
 • Primary Manager Persona: [Insert Style, e.g., Analytical, metrics-driven, constrained by division budgets]
 
 Quantifiable Contributions:
-Metric 1: [e.g., Reduced core service latency by 38%, saving $140k annually]
-Metric 2: [e.g., Mentored 4 junior engineers, leading to zero team turnover]
-Metric 3: [e.g., Took on technical ownership of Project Titan following staff departure]
+• Metric 1: [e.g., Reduced core service latency by 38%, saving $140k annually]
+• Metric 2: [e.g., Mentored 4 junior engineers, leading to zero team turnover]
+• Metric 3: [e.g., Took on technical ownership of Project Titan following staff departure]
 
 Third-Party Market Benchmark: [e.g., Radford/Levels.fyi 75th percentile for region]
 Drafting Parameters:
