@@ -3,9 +3,9 @@ Engineered Specification: Evidence-Based Compensation & Role Realignment
 Task: Construct an evidence-based business case memorandum for compensation adjustment or role realignment, framed around organizational value delivery and market parity.
 
 Context & Inputs:
-Current Title & Tenure: [Insert Title, e.g., Senior Systems Engineer, 2.5 years]
-Target Title / Compensation Band: [Insert Target Details]
-Primary Manager Persona: [Insert Style, e.g., Analytical, metrics-driven, constrained by division budgets]
+• Current Title & Tenure: [Insert Title, e.g., Senior Systems Engineer, 2.5 years]
+• Target Title / Compensation Band: [Insert Target Details]
+• Primary Manager Persona: [Insert Style, e.g., Analytical, metrics-driven, constrained by division budgets]
 
 Quantifiable Contributions:
 Metric 1: [e.g., Reduced core service latency by 38%, saving $140k annually]
