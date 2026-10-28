@@ -1,3 +1,5 @@
+Engineered Specification: Email Tone Modulation & Boundary Enforcement
+
 𝐓𝐚𝐬𝐤: Neutralize emotional charge in a workplace communication while enforcing firm professional boundaries and operational expectations.
 
 𝐂𝐨𝐧𝐭𝐞𝐱𝐭 & 𝐇𝐢𝐞𝐫𝐚𝐫𝐜𝐡𝐲:
